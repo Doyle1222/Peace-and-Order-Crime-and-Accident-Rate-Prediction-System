@@ -1,4 +1,4 @@
-<hrml >
+<html >
 <head></head>
 <body>
 <a href="https://colab.research.google.com/github/googlecolab/colabtools/blob/main/notebooks/colab-github-demo.ipynb">
@@ -6,4 +6,4 @@
 </a>
 
 </body>
-</hmtl>
+</html>
